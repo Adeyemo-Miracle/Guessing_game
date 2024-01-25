@@ -31,4 +31,4 @@ while True:
     else:
         print('You were below the number')
         
-print('You got it in', guesses, 'guesses')ad
+print('You got it in', guesses, 'guesses')
